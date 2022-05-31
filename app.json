@@ -1,0 +1,44 @@
+{
+  "name": "1",
+  "description": "Deploy 1 to Heroku.",
+  "keywords": ["1", "2", "3"],
+  "env": {
+     "ENCRYPT": {
+      "description": "加密方式（aes-256-cfb,chacha20-ietf-poly1305,salsa20,chacha20-ietf）",
+      "value": "chacha20-ietf-poly1305"
+    },
+     "PASSWORD": {
+      "description": "密码",
+      "value": "123456"
+    },
+
+    "VER": {
+       "description": "版本，默认latest安装最新版本（例如：1.1.0)",
+       "value": "latest"
+     }, 
+
+     "V2_Path": {
+      "description": "Path路径",
+      "value": "/1106228663"
+    },
+
+     "AppName": {
+      "description": "请输入最上方填写的App Name，用于生成配置和二维码，如果不想生成输入no",
+      "value": "no"
+    },
+
+    "QR_Path": {
+       "description": "二维码和配置链接路径，默认qr_img，为了保密性你也可以使用uuid,但是不能与V2_Path相同。如AppName变量为no，此变量没有作用",
+       "value": "/img_1106228663"
+     },
+
+     "ProxySite": {
+      "description": "反代一个网站，例如：www.tiktok.com，不填写表示使用本地静态网页文件。",
+      "value": "www.tiktok.com"
+    }
+
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
