@@ -30,8 +30,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MGU3MDdlNzIyZGQ0MmVmOTEwYTcyNTA3NzI5NzQyNw@
 
 Android：
 
-[shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.0.5/shadowsocks--universal-5.0.5.apk) [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin-android/releases/download/v1.3.1/v2ray-arm64-v8a-1.3.1.apk)
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.0.5/shadowsocks--universal-5.0.5.apk) [V2ray-Plugin](https://github.com/shadowsocks/v2ray-plugin-android/releases/download/v1.3.1/v2ray-arm64-v8a-1.3.1.apk)
 
-windows:
+Windows:
+[Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/tag/4.4.1.0) 
 
-<https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E>
+IOS:
+![303529DB7B28BD6629634A885546A855](https://user-images.githubusercontent.com/25584923/171151934-5c359ee2-04c9-4f7e-84dc-25c6dd122f4a.png)
+![C3A5CCE37941880A9D60393A219E2A2A](https://user-images.githubusercontent.com/25584923/171151944-d0d8ce9e-30d0-45a4-96ac-e9236dd21cdf.png)
