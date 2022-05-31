@@ -36,6 +36,5 @@ Windows:
 [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/tag/4.4.1.0) 
 
 IOS:
-<img src="[http://static.runoob.com/images/runoob-logo.png](https://user-images.githubusercontent.com/25584923/171151944-d0d8ce9e-30d0-45a4-96ac-e9236dd21cdf.png)" width="50%">
+![303529DB7B28BD6629634A885546A855](https://user-images.githubusercontent.com/25584923/171151944-d0d8ce9e-30d0-45a4-96ac-e9236dd21cdf.png)
 ![303529DB7B28BD6629634A885546A855](https://user-images.githubusercontent.com/25584923/171151934-5c359ee2-04c9-4f7e-84dc-25c6dd122f4a.png)
-<img src="[http://static.runoob.com/images/runoob-logo.png](https://user-images.githubusercontent.com/25584923/171151934-5c359ee2-04c9-4f7e-84dc-25c6dd122f4a.png)" width="50%">
