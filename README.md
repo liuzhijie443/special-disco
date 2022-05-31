@@ -33,6 +33,7 @@ Android：
 [Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.0.5/shadowsocks--universal-5.0.5.apk) [V2ray-Plugin](https://github.com/shadowsocks/v2ray-plugin-android/releases/download/v1.3.1/v2ray-arm64-v8a-1.3.1.apk)
 
 Windows:
+
 [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/tag/4.4.1.0) 
 
 IOS:
